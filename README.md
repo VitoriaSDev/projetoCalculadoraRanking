@@ -1,1 +1,1 @@
-# projetoCalculadoraRanking
+O Desafio consiste em criar uma calculadora de jogos Rankeados utliziando os conceitos aprendidos ao longo dos últimos módulos: aplicar variáveis, operadores, laços de repetição, estruturas de decisões e funções com retorno e parâmetros. 
